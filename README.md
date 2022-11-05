@@ -1,3 +1,3 @@
 # Test app
 
-This app is created to test github repo.
+This app is created to test github repo!
